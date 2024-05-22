@@ -1,12 +1,12 @@
 # FocusTube
-Created a Youtube Clone that only focuses on learning and studying. There are no distractions such as reels and entertainment videos.Especially made for college students.
+Created a Youtube Clone that only focuses on learning and studying. There are no distractions such as reels and entertainment videos.
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/YashRajSingh-4799/FocusTube.git
+  git clone https://github.com/PratyushaKumarKar/FocusTube.git
 ```
 
 Go to the project directory
